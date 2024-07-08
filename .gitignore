@@ -1,6 +1,6 @@
 *vsidx
 *.opendb
 .vs
-out
+out/*
 CMakePresets.json
 utils/*
